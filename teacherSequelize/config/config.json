@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "doa6ka89tlncj0gj",
-    "password": "o850hvqo0d5fbddn",
+    "username": "vanessaotto",
+    "password": "L2lah2l2lah2",
     "database": "teacher_sequelize",
-    "host": "hngomrlb3vfq3jcr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
@@ -19,4 +19,5 @@
     "database": "database_production",
     "host": "127.0.0.1",
     "dialect": "mysql"
+}
 }
